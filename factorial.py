@@ -17,7 +17,7 @@ def calculate(n):
   while n > 0:
     result = result * n
     n = n - 1
-  return result
+  return n
 
 if __name__ == "__main__":
   app.run(host="localhost",port=3000)
