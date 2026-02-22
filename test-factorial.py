@@ -10,7 +10,7 @@ class Testing(unittest.TestCase):
       "test1a" : (0,1),
       "test1b" : (1,1),
       "test1c" : (4,24),
-      "test1d" : (6,72),
+      "test1d" : (6,720),
       "test1e" : (9,362880)
     }
 
